@@ -1,0 +1,12 @@
+sql.denormalized/01 fail
+sql.denormalized/01.sql pass
+sql.denormalized/02.sql fail
+sql.denormalized/03.sql fail
+sql.denormalized/04.sql fail
+sql.denormalized/05.sql fail
+sql.denormalized/sql.denormalized diff: expected/sql.denormalized.out: No such file or directory
+pass
+
+real	0m4.988s
+user	0m0.546s
+sys	0m0.343s
